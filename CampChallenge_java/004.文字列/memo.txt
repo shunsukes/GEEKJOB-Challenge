@@ -1,0 +1,8 @@
+<%
+final String NAME = "groove";
+String NUM = "-";
+String cheer = "gear";
+
+// groove-gearと表示されます
+out.print(NAME + NUM + cheer);
+%>

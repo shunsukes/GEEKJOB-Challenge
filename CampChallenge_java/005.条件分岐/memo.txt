@@ -1,14 +1,14 @@
 <%
-int num = 2;
-
-// else if文を追加しました。
-// if文の条件を満たさなかった場合、else if文が実行されます。
-// これにより、「プログラミングキャンプです！」と表示されます。
-if (num == 1) {
-    out.print("1です！");
-} else if (num == 2) {
-    out.print("プログラミングキャンプ！");
-} else {
-    out.print("その他です！");
+    int num = 3;
+switch(num){
+   case 1:
+        System.out.println("one");
+        break;
+   case 2:
+        System.out.println("two");
+        break;
+   default:
+        System.out.println("想定外");
+        break;
 }
 %>

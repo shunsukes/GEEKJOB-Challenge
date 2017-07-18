@@ -1,14 +1,14 @@
 <%
-    int num = 3;
-switch(num){
-   case 1:
-        System.out.println("one");
+char character = 'A';
+switch (character) {
+    case 'A':
+        System.out.println("英語");
         break;
-   case 2:
-        System.out.println("two");
+    case 'あ':
+        System.out.println("日本語");
         break;
    default:
-        System.out.println("想定外");
-        break;
-}
+        System.out.println("");
+        break;         
+        }
 %>

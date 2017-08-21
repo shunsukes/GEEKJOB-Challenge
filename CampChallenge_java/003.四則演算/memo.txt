@@ -1,0 +1,14 @@
+<%
+final int a = 5;
+int       b = 10;
+    
+int tasu  = a + b;
+int hiku  = a - b;
+int kake  = a * b;
+int wari  = a / b;
+    
+out.print(a + " + " + b + " = " + tasu + "<br>");
+out.print(a + " - " + b + " = " + hiku + "<br>");
+out.print(a + " * " + b + " = " + kake + "<br>");
+out.print(a + " / " + b + " = " + wari + "<br>");
+%>

@@ -1,0 +1,18 @@
+<%-- 
+    Document   : challenge7-2
+    Created on : 2017/08/02, 13:24:35
+    Author     : maruyamashunsuke
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+
+<%@ page import="java.util.HashMap" %>
+<%
+HashMap<String, String> date = new HashMap<String, String>();
+    
+date.put("1", "AAA");
+date.put("hello", "world");
+date.put("soeda", "33");
+date.put("20", "20");
+%>

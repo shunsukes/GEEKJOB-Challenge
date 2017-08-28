@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package org.mypackage.sample;
+
+/**
+ *
+ * @author maruyamashunsuke
+ */
+
+public class challenge15bb {
+    public static void main(String[] arg){
+        
+        String mail = "cubecomplex704@gmail.com";
+        
+        int search = mail.indexOf("@");
+               
+        System.out.println(mail.substring(search + 1));
+    }
+}

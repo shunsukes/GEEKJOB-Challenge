@@ -2,30 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/build-impl.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/build/generated/src/org/apache/jsp/WEB_002dINF/jsp/FortuneTellingResult_jsp.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/insertresult.jsp</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/build/web/WEB-INF/web.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/insertconfirm.jsp</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/src/java/jums/InsertConfirm.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/build/generated/src/org/apache/jsp/WEB_002dINF/jsp/FortuneTellingResult_jsp.class.smap</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/src/java/jums/JumsHelper.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/private/private.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/project.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/project.properties</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/insert.jsp</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/src/java/jums/InsertResult.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/META-INF/context.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/private/private.properties</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/genfiles.properties</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/build.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/nbproject/ant-deploy.xml</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/src/java/jums/Insert.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/src/java/jums/UserDataBeans.java</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/index.jsp</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/build/web/error.jsp</file>
-            <file>file:/Users/maruyamashunsuke/NetBeansProjects/challenge19/web/error.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

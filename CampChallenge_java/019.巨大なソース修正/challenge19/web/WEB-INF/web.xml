@@ -16,6 +16,10 @@
         <servlet-name>UserDataBeans</servlet-name>
         <servlet-class>jums.UserDataBeans</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>NewServlet</servlet-name>
+        <servlet-class>org.apache.jsp.NewServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>insert</servlet-name>
         <url-pattern>/insert</url-pattern>
@@ -31,6 +35,10 @@
     <servlet-mapping>
         <servlet-name>UserDataBeans</servlet-name>
         <url-pattern>/UserDataBeans</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>NewServlet</servlet-name>
+        <url-pattern>/NewServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
